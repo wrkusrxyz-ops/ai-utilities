@@ -1,0 +1,14 @@
+name: Telemetry CI
+
+on:
+  workflow_dispatch:
+
+jobs:
+  process:
+    runs-on: ubuntu-latest
+
+    steps:
+      -  uses:  actions/checkout@v4
+
+      -  name:  Process telemetry data
+         run: python process_data.py
