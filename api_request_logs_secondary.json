@@ -1,0 +1,6 @@
+{
+  "service": "gateway-api",
+  "status": "healthy",
+  "request_count": 932,
+  "average_latency_ms": 74
+}

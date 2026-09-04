@@ -1,0 +1,6 @@
+{
+  "queue": "billing-worker",
+  "status": "healthy",
+  "jobs_processed": 615,
+  "pending_jobs": 12
+}

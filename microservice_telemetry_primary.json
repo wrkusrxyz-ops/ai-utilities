@@ -1,0 +1,6 @@
+{
+  "service": "payment-api",
+  "status": "healthy",
+  "request_count": 1248,
+  "average_latency_ms": 86
+}
